@@ -1,4 +1,5 @@
 ---
+last_reviewed: 2026-09-14
 name: "Retrieval Context Provenance Auditor"
 author: "SweetKenneth"
 github_url: "https://github.com/SweetKenneth/shpbl-retrieval-auditor"
@@ -36,6 +37,7 @@ tools_exposed:
 resources_exposed: []
 prompts_exposed: []
 ---
+last_reviewed: 2026-09-14
 
 When a retrieval-augmented agent makes a decision an incident responder disagrees with, the hard question is not what the model said — it is which retrieved material produced that answer, where that material came from, and whether the source had already started behaving badly. Most stacks cannot answer any of the three after the fact.
 
