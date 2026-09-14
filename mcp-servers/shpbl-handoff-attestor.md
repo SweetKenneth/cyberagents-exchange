@@ -1,4 +1,5 @@
 ---
+last_reviewed: 2026-09-14
 name: "Cross-Agent Handoff Attestor"
 author: "SweetKenneth"
 github_url: "https://github.com/SweetKenneth/shpbl-handoff-attestor"
