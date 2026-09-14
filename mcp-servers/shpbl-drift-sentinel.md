@@ -1,4 +1,5 @@
 ---
+last_reviewed: 2026-09-14
 name: "Agent Behaviour Drift Sentinel"
 author: "SweetKenneth"
 github_url: "https://github.com/SweetKenneth/shpbl-drift-sentinel"
