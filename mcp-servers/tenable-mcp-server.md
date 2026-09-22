@@ -1,5 +1,5 @@
 ---
-name: "Tenable MCP Server (Tenable One)"
+name: "Community MCP Server for Tenable"
 author: "tarhou"
 github_url: "https://github.com/tarhou/tenable-mcp-server"
 description: "58 tools connecting LLMs to Tenable VM and Tenable One: assets, vulns, scans, exposure scores, attack paths, WAS, ASM, CNAPP, containers, compliance."

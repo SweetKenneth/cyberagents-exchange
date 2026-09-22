@@ -26,7 +26,7 @@ agents_used:
     role: "The portable, dependency-free form of the same ranking method, for operators who run the chain without the MCP server."
     type: "exchange"
     ref: "skills/chokepoint-finder-skill"
-  - name: "Tenable MCP Server (Tenable One)"
+  - name: "Community MCP Server for Tenable"
     role: "Read-only collection of findings and asset context, and the authoritative re-scan the verification stage diffs against."
     type: "exchange"
     ref: "mcp-servers/tenable-mcp-server"
